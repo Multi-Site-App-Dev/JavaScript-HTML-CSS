@@ -8,5 +8,6 @@
 
 ![](https://www.freshersnow.com/wp-content/uploads/2023/02/HTML-vs-CSS.webp)
 
-## HTML [Notes]() <br> <br> CSS [Notes]() <br> <br> JavaScript [Notes]()
+## HTML [Notes](https://github.com/Multi-Site-App-Dev/JavaScript-HTML-CSS/tree/main/ui
+) <br> <br> CSS [Notes](https://github.com/Multi-Site-App-Dev/JavaScript-HTML-CSS/blob/main/ui/intro-css.md) <br> <br> JavaScript [Notes](https://github.com/Multi-Site-App-Dev/JavaScript-HTML-CSS/tree/main/javascript)
 
