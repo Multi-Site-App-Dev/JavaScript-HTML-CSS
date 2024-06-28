@@ -6,5 +6,7 @@
 
 **Therefore, it makes the most sense to learn them in that order.**
 
+![](https://www.freshersnow.com/wp-content/uploads/2023/02/HTML-vs-CSS.webp)
+
 ## HTML [Notes]() <br> <br> CSS [Notes]() <br> <br> JavaScript [Notes]()
 
