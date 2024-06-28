@@ -8,6 +8,6 @@
 
 ![](https://www.freshersnow.com/wp-content/uploads/2023/02/HTML-vs-CSS.webp)
 
-## HTML [Notes](https://github.com/Multi-Site-App-Dev/JavaScript-HTML-CSS/tree/main/ui) <br> <br> CSS [Notes](https://github.com/Multi-Site-App-Dev/JavaScript-HTML-CSS/blob/main/ui/intro-css.md) <br> <br> JavaScript [Notes](https://github.com/Multi-Site-App-Dev/JavaScript-HTML-CSS/tree/main/javascript)
-![](https://d2i2xyh28mr8fx.cloudfront.net/wp-content/uploads/2023/01/26131328/HTML-vs-CSS-vs-JavaScript.png)
+## HTML [Notes](https://github.com/Multi-Site-App-Dev/JavaScript-HTML-CSS/tree/main/ui) <br> <br> CSS [Notes](https://github.com/Multi-Site-App-Dev/JavaScript-HTML-CSS/blob/main/ui/intro-css.md) <br> ![](https://d2i2xyh28mr8fx.cloudfront.net/wp-content/uploads/2023/01/26131328/HTML-vs-CSS-vs-JavaScript.png)<br> JavaScript [Notes](https://github.com/Multi-Site-App-Dev/JavaScript-HTML-CSS/tree/main/javascript)
+
 
