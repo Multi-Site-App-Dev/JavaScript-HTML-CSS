@@ -6,5 +6,5 @@
 
 **Therefore, it makes the most sense to learn them in that order.**
 
-## HTML [Notes]() <br> CSS [Notes]() <br> JavaScript[Notes]()
+## HTML [Notes]() <br> <br> CSS [Notes]() <br> <br> JavaScript [Notes]()
 
